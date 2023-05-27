@@ -21,7 +21,7 @@ This is a billing website project built with Laravel, JavaScript, and a Bootstra
 1. Clone the repository:
 
 ```shell
-    git clone [https://github.com/Mahmoud72E/invoices_project.git](https://github.com/Mahmoud72E/invoices_project.git)
+    git clone https://github.com/Mahmoud72E/invoices_project.git
 ```
 2. Change to the project directory:
 ```shell
